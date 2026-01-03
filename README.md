@@ -33,6 +33,34 @@ OUTPUT
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/0b217957-35f1-4f8e-a620-ffe42c449639" />
 <hr>
 "Today, I created a small HTML webpage for a Blood Donation Camp as part of my learning practice. The page includes an event schedule displayed using tables and a registration form with various input fields such as text, email, number, radio buttons, checkboxes, a dropdown for blood groups, and a submit button. This task helped me better understand the structure of HTML, form elements, and how to organize information clearly on a webpage."<hr>
+<hr>
+<h2>#Day3</h2>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/123cae61-21a1-411d-936a-45e0fcfb1424" /><BR>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/fb728d43-a0e8-43ac-bbbd-fd06a3f993b4" /><BR>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/5b6dcbf2-b6fe-4581-8b74-c4fa0edcb788" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/f51d5f51-d261-4b20-adda-b437e55357b8" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/81e9c1f6-0a62-4e3d-a929-e539e8a6286f" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/6717e4fa-80b0-4f54-b417-813bd0282da4" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/9ffcb769-daba-406d-8764-c8a4eccd85d7" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/d7bd1cd0-75c7-4d9d-bf6e-b159feaa046b" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/1e243ee6-97b0-458a-abab-2d9ea3dfc8dc" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/062e0779-041d-4cc6-91e6-b5862de7218b" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/c320c4f3-d159-4a06-a6a8-e83478560eca" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/73eb0339-a31e-4eaf-8ca5-f50807803ef4" /><br>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/387fa36a-bcc4-4185-86c6-8baaef1b481d" /><br>
+![Uploading image.png…]()
+![Uploading image.png…]()
+Today, I updated my portfolio by refining the CSS design. I introduced a sleek blue theme, improved the layout with card-style sections, and enhanced the overall visual polish. The result is a more professional and cohesive presentation of my work.
+
+
+
+
+
+
+
+
+
+
 
 
 
