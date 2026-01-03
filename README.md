@@ -46,10 +46,11 @@ OUTPUT
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/1e243ee6-97b0-458a-abab-2d9ea3dfc8dc" /><br>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/062e0779-041d-4cc6-91e6-b5862de7218b" /><br>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/c320c4f3-d159-4a06-a6a8-e83478560eca" /><br>
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/530c59b5-5471-480c-9372-944ab9f2d248" />
+
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/73eb0339-a31e-4eaf-8ca5-f50807803ef4" /><br>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/387fa36a-bcc4-4185-86c6-8baaef1b481d" /><br>
-![Uploading image.png…]()
-![Uploading image.png…]()
 Today, I updated my portfolio by refining the CSS design. I introduced a sleek blue theme, improved the layout with card-style sections, and enhanced the overall visual polish. The result is a more professional and cohesive presentation of my work.
 
 
