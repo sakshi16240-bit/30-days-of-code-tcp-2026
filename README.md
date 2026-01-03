@@ -34,7 +34,7 @@ OUTPUT
 <hr>
 "Today, I created a small HTML webpage for a Blood Donation Camp as part of my learning practice. The page includes an event schedule displayed using tables and a registration form with various input fields such as text, email, number, radio buttons, checkboxes, a dropdown for blood groups, and a submit button. This task helped me better understand the structure of HTML, form elements, and how to organize information clearly on a webpage."<hr>
 <hr>
-<h2>#Day3</h2>
+<h2>#DAY3</h2>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/123cae61-21a1-411d-936a-45e0fcfb1424" /><BR>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/fb728d43-a0e8-43ac-bbbd-fd06a3f993b4" /><BR>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/5b6dcbf2-b6fe-4581-8b74-c4fa0edcb788" /><br>
