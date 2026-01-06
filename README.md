@@ -83,9 +83,11 @@ Today, I tried building a Tic-Tac-Toe game, but I couldn’t complete it success
 <hr>
 <h2>#DAY6</h2>
 Space and Time Complexity
+<br>
 Question: 
+<br>
 What is the worst case time complexity of the following code:
-
+<br>
 int findMinPath(vector<vector<int> > &V, int r, int c) {
   int R = V.size();
   int C = V[0].size();
@@ -93,12 +95,15 @@ int findMinPath(vector<vector<int> > &V, int r, int c) {
   if (r == R - 1 && c == C - 1) return 0;
   return V[r][c] + min(findMinPath(V, r + 1, c), findMinPath(V, r, c + 1));
 }
+  <br>
 Assume R = V.size() and C = V[0].size().
+  <br>
 <hr>
 <hr>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/d0d366d4-e9a2-476c-9789-30ea4e7c98ad" />
 <hr>
 "Today, I worked on a problem related to space and time complexity"
+<br>
 Resource: https://youtu.be/FPu9Uld7W-E?si=0G3uIJd8ZV-mExAE
 
 
