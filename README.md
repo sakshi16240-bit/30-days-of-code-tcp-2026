@@ -99,7 +99,7 @@ Assume R = V.size() and C = V[0].size().
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/d0d366d4-e9a2-476c-9789-30ea4e7c98ad" />
 <hr>
 "Today, I worked on a problem related to space and time complexity"
-< a href="Resource: https://youtu.be/FPu9Uld7W-E?si=0G3uIJd8ZV-mExAE">
+Resource: https://youtu.be/FPu9Uld7W-E?si=0G3uIJd8ZV-mExAE
 
 
 
