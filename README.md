@@ -70,19 +70,36 @@ Today, I updated my portfolio by refining the CSS design. I introduced a sleek b
 <HR>
 
 <h2>#DAY5</h2>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/779cc42f-de04-41b9-b62d-dedb6328f304" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db013f03-8d24-40e9-91ec-9db765a94f5d" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8f0be094-a21c-4128-8ff2-87d5d8c5147d" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aa655140-56ce-4541-af8a-643b3390e0ca" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/519dd4aa-12d8-4b84-a1b1-9be7768de858" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/76ae9631-3803-4aa3-a42e-b22c58216667" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/87947fc1-5119-4d07-9546-fd562c50856d" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/779cc42f-de04-41b9-b62d-dedb6328f304" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/db013f03-8d24-40e9-91ec-9db765a94f5d" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/8f0be094-a21c-4128-8ff2-87d5d8c5147d" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/aa655140-56ce-4541-af8a-643b3390e0ca" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/519dd4aa-12d8-4b84-a1b1-9be7768de858" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/76ae9631-3803-4aa3-a42e-b22c58216667" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/87947fc1-5119-4d07-9546-fd562c50856d" />
 <HR>
 Today, I tried building a Tic-Tac-Toe game, but I couldn’t complete it successfully. Since JavaScript is new to me, I faced difficulty connecting the script to the website, and the code was not running in the browser console as expected. Although it was challenging, this experience helped me understand the importance of properly linking JavaScript files and debugging using the console. It was a valuable learning step in my web development journey.
+<hr>
+<hr>
+<h2>#DAY6</h2>
+Space and Time Complexity
+Question: 
+What is the worst case time complexity of the following code:
 
-
-
-
+int findMinPath(vector<vector<int> > &V, int r, int c) {
+  int R = V.size();
+  int C = V[0].size();
+  if (r >= R || c >= C) return 100000000; // Infinity
+  if (r == R - 1 && c == C - 1) return 0;
+  return V[r][c] + min(findMinPath(V, r + 1, c), findMinPath(V, r, c + 1));
+}
+Assume R = V.size() and C = V[0].size().
+<hr>
+<hr>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/d0d366d4-e9a2-476c-9789-30ea4e7c98ad" />
+<hr>
+"Today, I worked on a problem related to space and time complexity"
+< a href="Resource: https://youtu.be/FPu9Uld7W-E?si=0G3uIJd8ZV-mExAE">
 
 
 
