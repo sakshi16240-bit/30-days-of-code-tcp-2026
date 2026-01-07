@@ -105,6 +105,18 @@ Assume R = V.size() and C = V[0].size().
 "Today, I worked on a problem related to space and time complexity"
 <br>
 Resource: https://youtu.be/FPu9Uld7W-E?si=0G3uIJd8ZV-mExAE
+<hr>
+<hr>
+<h2>#DAY7</h2>
+<hr>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/8bdead75-413e-42dc-a614-e9e2e50e92e4" />
+<hr>
+<hr>
+" Today, i solved the question of array "
+<hr>
+<hr>
+
+
 
 
 
