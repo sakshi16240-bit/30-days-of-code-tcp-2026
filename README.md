@@ -108,13 +108,27 @@ Resource: https://youtu.be/FPu9Uld7W-E?si=0G3uIJd8ZV-mExAE
 <hr>
 <hr>
 <h2>#DAY7</h2>
+3079. Find the Sum of Encrypted Integers
+You are given an integer array nums containing positive integers. We define a function encrypt such that encrypt(x) replaces every digit in x with the largest digit in x. For example, encrypt(523) = 555 and encrypt(213) = 333.<br>
+
+Return the sum of encrypted elements.
 <hr>
+  
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/8bdead75-413e-42dc-a614-e9e2e50e92e4" />
 <hr>
+" Today, i solved the question of array in leetcode."
 <hr>
-" Today, i solved the question of array "
+<hr>
+<h2>#DAY8</h2>
+<img width="600" height="213" alt="image" src="https://github.com/user-attachments/assets/1f4cf7af-a42e-4c84-8a11-e558513a5b03" />
+<hr>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/458c8a20-8324-463c-8fb2-46a5269a7d6e" />
+<hr>
+"Today I solved the question of array in leetcode."
 <hr>
 <hr>
+
+
 
 
 
