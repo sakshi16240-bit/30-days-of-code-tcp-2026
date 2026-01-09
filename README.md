@@ -65,7 +65,7 @@ Today, I updated my portfolio by refining the CSS design. I introduced a sleek b
 <hr>
 <hr>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/d2b2021e-48f1-479c-a6ba-7a881c3bb00c" />
-<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/c4648dfe-138c-4698-898a-ab4613806225" />
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/c4648dfe-138c-4698-898a-ab4613806225" /><br>
 "Through this project, I learned how to structure a complete web page using semantic HTML and style it effectively with external CSS. I gained hands-on experience with Flexbox for layout alignment, hover effects, CSS variables, and basic animations to improve user interaction. This task helped me understand how different sections of a landing page work together to create a clean, responsive, and visually appealing design."
 <HR>
 
