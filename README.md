@@ -127,6 +127,16 @@ Return the sum of encrypted elements.
 "Today I solved the question of array in leetcode."
 <hr>
 <hr>
+<br>
+<h2>#DAY9</h2>
+<h4>"1903. Largest Odd Number in String<br>
+You are given a string num, representing a large integer. Return the largest-valued odd integer (as a string) that is a non-empty substring of num, or an empty string "" if no odd integer exists.<br>A substring is a contiguous sequence of characters within a string."<br></h4>
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/846eb134-811a-423c-8b87-de4ac6719360" />
+<hr>
+"Today i learned more about array".
+<hr>
+
+
 
 
 
