@@ -4,8 +4,6 @@ Author - Sakshi Kumari
 <br>
 Branch - MME
 <br>
-Roll no. - 25120083
-<br>
 <hr>
 <h2>#DAY 1</h2>
 <img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/5a89effe-d1e2-42df-b8fd-797def2e3f59" />
